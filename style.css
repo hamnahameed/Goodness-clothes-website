@@ -1,0 +1,155 @@
+body{
+    background-color: whitesmoke;
+}
+/* .navbar{
+    background-color: black ;
+    
+} */
+
+.fa-user{
+    color: white ;
+    font-size: 30px !important;
+}
+
+.fa-shopping-cart{
+    color: white ;
+    font-size: 30px !important;
+}
+
+
+/* 
+.navbar navbar-expand-lg navbar-light bg-dark top{
+    margin-top: 2%;
+    margin-left: 10%;   
+} */
+
+.navbar ul li{
+    margin-left: 60px;
+    
+
+}
+
+
+
+.carousel slide{
+    margin-top: 5%;
+}
+
+.carousel-item{
+    margin-left: 13% ;
+}
+
+.cardsss{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+    
+}
+
+.card1,.card2,.card3,.card4,.card5{
+    border-right:  1px solid black ;
+    text-align: center;
+    width: 70%;   
+    padding-bottom: 2%;
+    
+    
+}
+
+.fa-money,.fa-shield,.fa-truck,.fa-lock,.fa-headphones{
+    font-size: 30px !important;
+    margin-top: 5%;
+}
+
+.catogries{
+    margin-top: 10% !important;
+    ;
+}
+
+.line{
+    background-color: white;
+    text-align: center;
+}
+
+.footer{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-around;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+
+.fa-facebook,.fa-twitter,.fa-whatsapp,.fa-instagram,.fa-youtube{
+    font-size: 30px !important;
+    margin-right: 2px;
+    text-align: right;
+    color: white;
+}
+
+.last{
+    background-color: black;
+    color: white;
+}
+@media screen and (max-width: 600px) {
+    .card1,.card2,.card3,.card4,.card5 {
+      width:100% ;
+    }
+  }
+.card{
+    width: 250px;
+    height: auto;  
+    margin-top: 5%;  
+}
+
+.btn-primary{
+    width: 100%;
+}
+@media screen and (max-width: 600px) {
+    .card,.footer{
+      width:100% ;
+    }
+  }
+/* 
+  .form{
+      margin-left: 25%;
+      border: 1px solid black;
+      width: 50%;
+      margin-top: 2%;
+      background-color:peachpuff;
+      
+
+ }
+
+ @media screen and (max-width: 600px) {
+    .form{
+      width:100% ;
+    }
+  } */
+
+  
+
+ 
+ .box{
+     margin-left: 5%;
+     
+ }
+
+ .cnt{
+    text-align: center;
+}
+
+
+.sub{
+    margin-left: 5%;
+    
+}
+
+
+
